@@ -71,4 +71,3 @@ bot.on('spawn',function() {
 bot.on('death',function() {
     bot.emit("respawn")
 });
-
